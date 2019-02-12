@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestTinkoff</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="tab_title_map">Карта</string>
+    <string name="tab_title_list">Список</string>
+
+    <string name="info_deposition_duration">Время зачисления</string>
+    <string name="info_limitations">Лимиты</string>
+    <string name="info_description">Дополнительная информация</string>
+    <string name="info_work_hours">Часы работы</string>
+
+    <string name="error_load_points">Не удалось загрузить данные</string>
+</resources>
